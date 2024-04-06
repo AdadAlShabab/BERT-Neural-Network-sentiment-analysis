@@ -1,4 +1,5 @@
 # BERT Neural Network Sentiment Analysis
+
 This repository hosts a sentiment analysis project utilizing BERT (Bidirectional Encoder Representations from Transformers), a state-of-the-art neural network architecture for natural language processing tasks. The project focuses on classifying sentiment in textual data into positive, negative, or neutral categories using BERT's powerful contextual embeddings and attention mechanisms.
 
 ## Dataset
