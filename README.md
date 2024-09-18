@@ -2,7 +2,6 @@
 
 This repository hosts a sentiment analysis project utilizing BERT (Bidirectional Encoder Representations from Transformers), a state-of-the-art neural network architecture for natural language processing tasks. The project focuses on classifying sentiment in textual data into positive, negative, or neutral categories using BERT's powerful contextual embeddings and attention mechanisms.
 ## Dataset
-
 The dataset used in this project consists of a collection of textual data with associated sentiment labels. This dataset may include various sources such as customer reviews, social media posts, or movie reviews. Each sample in the dataset is labeled with its corresponding sentiment category, enabling the training of the sentiment analysis model.
 
 ## Project Structure
